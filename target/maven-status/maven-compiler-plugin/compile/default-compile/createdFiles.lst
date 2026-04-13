@@ -1,0 +1,5 @@
+productcatalog\entity\Product.class
+productcatalog\ProductcatalogApplication.class
+productcatalog\controller\ProductController.class
+productcatalog\service\ProductService.class
+productcatalog\repository\ProductRepository.class
